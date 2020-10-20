@@ -4,7 +4,7 @@
     "title": "K-Trap",
     "subTitle": "Watching",
     "image": "/images/misc/home-tv.jpg",
-    "alt": "Tiger King on Netflix",
+    "alt": "Music Video",
     "direction": "row"
   },
   {
@@ -12,7 +12,7 @@
     "title": "Headie One",
     "subTitle": "Edna",
     "image": "/images/misc/home-mobile.jpg",
-    "alt": "Watch on mobile",
+    "alt": "Music Video",
     "direction": "row-reverse"
   },
   {
@@ -20,7 +20,7 @@
     "title": "D-Block Europe",
     "subTitle": "Shard",
     "image": "/images/misc/home-imac.jpg",
-    "alt": "Money Heist on Netflix",
+    "alt": "Music Video",
     "direction": "row"
   }
 ]
